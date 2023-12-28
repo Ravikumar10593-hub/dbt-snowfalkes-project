@@ -8,9 +8,9 @@ env.bak/
 venv.bak/
 dbt/ 
 logs/
+.gitkeep
 
-
-# Jupyter Notebook
+# Jupyter NotebookS
 .ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
