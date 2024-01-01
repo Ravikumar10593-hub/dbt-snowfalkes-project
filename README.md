@@ -8,7 +8,7 @@ Try running the following commands:
 
 ### Published version of DBT docs and DBT Elementary dashboard:
 - DBT docs : [Link](https://dbt-snowfalkes-project.vercel.app/#!/overview)
-- DBT elementary dashboadr : [Link](https://dbt-snowfalkes-project-w6q9.vercel.app/#/report/dashboard)
+- DBT elementary dashboadr : [Link](https://dbt-snowfalkes-project-elementary-report.vercel.app/#/report/dashboard)
 
 
 ### Resources:
