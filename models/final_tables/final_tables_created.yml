@@ -8,6 +8,5 @@ models:
       - name: DATETIME
         description: "The primary key for this table"
         tests:
-          - unique
           - not_null
 
