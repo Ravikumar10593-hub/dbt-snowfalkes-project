@@ -6,6 +6,10 @@ Try running the following commands:
 - dbt run
 - dbt test
 
+### Published version of DBT docs and DBT Elementary dashboard:
+- DBT docs : [Link](https://dbt-snowfalkes-project.vercel.app/#!/overview)
+- DBT elementary dashboadr : [Link](https://dbt-snowfalkes-project-w6q9.vercel.app/#/report/dashboard)
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
